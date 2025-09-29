@@ -1,0 +1,6 @@
+{
+  "reactions":[
+    {"reactants":["Na","H2O"],"result":"H2 explosion! Door unlocked."},
+    {"reactants":["HCl","NaOH"],"result":"Neutralization successful!"}
+  ]
+}

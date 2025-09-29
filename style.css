@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+  text-align: center;
+}
+#gameCanvas {
+  border: 2px solid black;
+  background-color: #ddd;
+  display: block;
+  margin: 20px auto;
+}
+#inventory {
+  margin-top: 10px;
+}
+#messages {
+  color: darkblue;
+  min-height: 20px;
+  margin-top: 10px;
+}
+.selected {
+  border: 2px solid yellow;
+}
+button {
+  margin: 2px;
+  padding: 5px;
+}
